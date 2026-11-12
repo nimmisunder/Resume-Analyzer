@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LangChain Resume Analyzer (RAG)
 
 A local resume-analysis portfolio project. It compares a PDF resume with a pasted job description using a LangChain retrieval pipeline.
@@ -99,3 +100,7 @@ Upload a text-based PDF resume, paste a job description and click **Analyze with
 3. Add section-aware parsing for skills, experience, education and projects.
 4. Add evaluation examples and compare retrieval quality.
 5. Add FastAPI endpoints and a database for user-managed history.
+=======
+# Resume-Analyzer
+LangChain RAG implementation
+>>>>>>> e57fe0129bfd37282aed191fc8d7cd068f5eeb15
