@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # LangChain Resume Analyzer (RAG)
 
 A local resume-analysis portfolio project. It compares a PDF resume with a pasted job description using a LangChain retrieval pipeline.
