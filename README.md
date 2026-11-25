@@ -5,7 +5,7 @@ A local resume-analysis portfolio project. It compares a PDF resume with a paste
 
 ## Features
 
-- PDF loading with `PyPDFLoader`
+- PDF loading with PyPDFLoader
 - Chunking with `RecursiveCharacterTextSplitter`
 - Embeddings with Hugging Face `HuggingFaceEmbeddings`
 - Vector indexing and similarity retrieval with FAISS
